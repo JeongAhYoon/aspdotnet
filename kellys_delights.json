@@ -5,9 +5,9 @@
         "ITEM": "BirkinBag",
         "GraphicName": "birkin.jpg",
         "CostPrice": "10000",
-        "MSRP": "15000",
-        "QtyOnHand": "5",
-        "QtyOnBackOrder": "2",
+        "MSRP": "509.99",
+        "QtyOnHand": "1",
+        "QtyOnBackOrder": "0",
         "Description": "The iconic Hermès Birkin Bag is a symbol of luxury and exclusivity."
     },
     {
@@ -16,9 +16,9 @@
         "ITEM": "KellyBag",
         "GraphicName": "kelly.jpg",
         "CostPrice": "9000",
-        "MSRP": "14000",
-        "QtyOnHand": "3",
-        "QtyOnBackOrder": "1",
+        "MSRP": "599.99",
+        "QtyOnHand": "1",
+        "QtyOnBackOrder": "0",
         "Description": "The Hermès Kelly Bag is known for its elegance and timeless design."
     },
     {
